@@ -107,13 +107,16 @@ header,
 
 
 .container {
+    max-width: 800px;
     width: 90%;
     margin: 0 auto;
 }
 
 .main-image {
     width: 100%;
-    margin-bottom: 32px;
+    display: block;
+    margin: 0 auto 32px;
+
 }
 
 .section-two-image-container {
