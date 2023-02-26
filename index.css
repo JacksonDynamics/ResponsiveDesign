@@ -101,13 +101,6 @@ header,
     color: whitesmoke;
 }
 
-/*
- Challenge:
-  Use a percentage value to create flexible containers 
-  that resize according to their parent’s width
-*/
-
-
 .container {
     max-width: 800px;
     width: 90%;
