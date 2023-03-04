@@ -1,3 +1,3 @@
 # Responsive Design
 
-### https://responsedesign.netlify.app/
+### <https://responsedesign.netlify.app/>
