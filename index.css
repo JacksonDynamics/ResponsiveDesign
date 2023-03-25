@@ -102,16 +102,16 @@ header,
 }
 
 .container {
-    max-width: 800px;
     width: 90%;
+    max-width: 800px;
     margin: 0 auto;
 }
 
 .main-image {
     width: 100%;
     display: block;
+    max-width: 640px;
     margin: 0 auto 2em;
-
 }
 
 .section-two-image-container {
@@ -129,8 +129,10 @@ footer {
     color: #5f29a3;
 }
 
+/* ----- MEDIA QUERIES ----- */
 
-@media (min-width: 580px) {
+
+@media (min-width: 480px) {
     .section-two-image-container {
         flex-direction: row;
         justify-content: space-between;
