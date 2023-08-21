@@ -1,4 +1,4 @@
 # Responsive Sneakers Design
 
-### Simple website that implements multiple responsive design principles, such as media queries, rem, em, px, and %.   
+### Simple website that implements multiple responsive design principles.   
 ### <https://responsedesign.netlify.app/>
